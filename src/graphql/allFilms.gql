@@ -1,0 +1,6 @@
+query allFilms {
+    allFilms {
+        director
+        id
+    }
+}
