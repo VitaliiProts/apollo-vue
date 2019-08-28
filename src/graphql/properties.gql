@@ -1,0 +1,16 @@
+query {
+  properties {
+    id
+    district {
+      id
+      name
+    }
+    price
+    rooms
+    seller {
+      id
+      name
+      email
+    }
+  }
+}
